@@ -13,7 +13,7 @@ For more information, checkout the project site [[website](https://cvlab.yonsei.
 * Sklearn
 
 ## Datasets
-* USCD Ped2 [[dataset](https://github.com/StevenLiuWen/ano_pred_cvpr2018)]
+* UCSD Ped2 [[dataset](https://github.com/StevenLiuWen/ano_pred_cvpr2018)]
 * CUHK Avenue [[dataset](https://github.com/StevenLiuWen/ano_pred_cvpr2018)]
 * ShanghaiTech [[dataset](https://github.com/StevenLiuWen/ano_pred_cvpr2018)]
 
